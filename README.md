@@ -21,7 +21,7 @@ Please feel free to [pull requests](https://github.com/captainzone/AwesomeAutono
   - [Object Tracking](#object-tracking)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Depth Estimation](#depth-estimation)
-  - [Localization and Mapping](#localization-mapping)
+  - [Localization and Mapping](#localization-and-mapping)
   - [Visual Odometry](#visual-odometry)
   - [Lane Detection](#lane-detection)
   - [Decision Making](#decision-making)
