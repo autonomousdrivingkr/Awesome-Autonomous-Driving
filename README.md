@@ -40,6 +40,11 @@ Please feel free to [pull requests](https://github.com/captainzone/AwesomeAutono
 
 ### Overall
 * Self-Driving Cars: A Survey [[Paper](https://arxiv.org/abs/1901.04407)]
+  * Claudine Badue, Rânik Guidolini, Raphael Vivacqua Carneiro, Pedro Azevedo, Vinicius Brito Cardoso, Avelino Forechi, Luan Ferreira Reis Jesus, Rodrigo Ferreira Berriel, Thiago Meireles Paixão, Filipe Mutz, Thiago Oliveira-Santos, Alberto Ferreira De Souza
+* MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation [[Paper](https://arxiv.org/pdf/1711.06976)]
+  * Lex Fridman, Daniel E. Brown, Michael Glazer, William Angell, Spencer Dodd, Benedikt Jenik,
+Jack Terwilliger, Julia Kindelsberger, Li Ding, Sean Seaman, Hillary Abraham, Alea Mehler,
+Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler, Bryan Reimer
 
 ### Classification
 * Densely Connected Convolutional Networks [[Paper](https://arxiv.org/abs/1608.06993)]
@@ -236,8 +241,39 @@ Please feel free to [pull requests](https://github.com/captainzone/AwesomeAutono
 * Visual map matching and localization using a global feature map [[Paper](https://www.semanticscholar.org/paper/Visual-map-matching-and-localization-using-a-global-Pink/137fc2d731ec51dbc98a54b371322d4d23488806)]
   * Oliver Pink
 * Map-based precision vehicle localization in urban environments [[Paper](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6280129)]
-  * Wolfram Burgard,Oliver Brock,Cyrill Stachniss
-
+  * Wolfram Burgard,Oliver Brock, Cyrill Stachniss
+* Simultaneous Localization And Mapping: A Survey of Current Trends in Autonomous Driving [[Paper](https://hal.archives-ouvertes.fr/hal-01615897)]
+  * Guillaume Bresson, Zayed Alsayed, Li Yu, Sébastien Glaser
+* Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age [[Paper](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)]
+  * Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, Jose Neira, Ian Reid, and John J. Leonard
+* The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures [[Paper](http://robots.stanford.edu/papers/thrun.graphslam.pdf)]
+  * Sebastian Thrun, Michael Montemerlo
+* Large-scale mapping in complex field scenarios using an autonomous car [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417415007496)]
+  * Filipe Mutza, Lucas P.Veronese, Thiago Oliveira-Santos, Edilsonde Aguiar, Fernando A.Auat Cheein, Alberto Ferreira De Souza
+* Road-SLAM : Road Marking based SLAM with Lane-level Accuracy [[Paper](https://www.naverlabs.com/img/autonomousDriving/intelligence/dissertation/Road-SLAM_Road%20Marking%20based%20SLAM%20with%20Lane-level%20Accuracy.pdf)]
+  * Jinyong Jeong, Younggun Cho, and Ayoung Kim
+* LIMO: Lidar-Monocular Visual Odometry [[Paper](https://arxiv.org/abs/1807.07524)]
+  * Johannes Graeter, Alexander Wilczynski, Martin Lauer
+* Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast
+ [[Paper](https://www.ri.cmu.edu/publications/visual-lidar-odometry-and-mapping-low-drift-robust-and-fast/)]
+   * Ji Zhang and Sanjiv Singh
+* LOAM: Lidar Odometry and Mapping in Real-time [[Paper](https://ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)]
+  * Ji Zhang and Sanjiv Singh
+* Efficient Surfel-Based SLAM using 3D Laser Range Data in Urban Environments [[Paper](http://www.roboticsproceedings.org/rss14/p16.pdf)]
+  * Jens Behley and Cyrill Stachni
+* SOFT-SLAM: Computationally Efficient Stereo Visual SLAM for Autonomous UAVs [[Paper](https://lamor.fer.hr/images/50020776/Cvisic2017.pdf)]
+  * Igor Cvišić, Josip Ćesić, Ivan Marković, Ivan Petrović
+* Visual SLAM for Automated Driving:
+Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Milz_Visual_SLAM_for_CVPR_2018_paper.pdf) ]
+  * Stefan Milz, Georg Arbeiter, Christian Witt, Bassam Abdallah
+* SegMap: 3D Segment Mapping using Data-Driven Descriptors [[Paper](https://arxiv.org/pdf/1804.09557.pdf)]
+  * Renaud Dube, Andrei Cramariuc, Daniel Dugas, Juan Nieto, Roland Siegwart, and Cesar Cadena
+* SegMatch: Segment Based Place Recognition in 3D Point Clouds [[Paper](https://arxiv.org/pdf/1609.07720.pdf)]
+  * Renaud Dubé, Daniel Dugas, Elena Stumm, Juan Nieto, Roland Siegwart, Cesar Cadena∗
+* Incremental Segment-Based Localization in 3D Point Clouds [[Paper](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
+  * Renaud Dubé, Mattia G. Gollub, Hannes Sommer, Igor Gilitschensk
+* Direct Visual SLAM using Sparse Depth for Camera-LiDAR System [[Paper](http://irap.kaist.ac.kr/publications/yshin-2018-icra.pdf)]
+  * Young-Sik Shin, Yeong Sang Park and Ayoung Kim
 
 ### Visual Odometry
 * Review of visual odometry:types, approaches, challenges, and applications [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084145/)]
