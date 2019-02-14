@@ -2,7 +2,7 @@
 
 This is github for Survey for Autonomous Driving.
 
-Maintainers - [Daehyun Ji](https://github.com/captainzone/)(MILA), Dokwan Oh(https://github.com/dokwanoh/)(MILA), [Dongwon Shin](https://github.com/JustWon)(GIST), Dongwook Lee(SS), Seho Shin(https://github.com/insightque/)(SS), Autonomous Driving Project Team Members(2017~2019) in SS!.
+Maintainers - [Daehyun Ji](https://github.com/captainzone/)(MILA), [Dokwan Oh](https://github.com/dokwanoh/)(MILA), [Dongwon Shin](https://github.com/JustWon)(GIST), Dongwook Lee(SS), [Seho Shin](https://github.com/insightque/)(SS), Autonomous Driving Project Team Members(2017~2019) in SS!.
 
 [AutonomousDrving KR] (https://www.facebook.com/groups/106272686509360/)
 
