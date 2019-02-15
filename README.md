@@ -2,7 +2,7 @@
 
 This is github for Survey for Autonomous Driving.
 
-Maintainers - [Daehyun Ji](https://github.com/captainzone/)(MILA), Dokwan Oh(MILA), [Dongwon Shin](https://github.com/JustWon)(GIST), Dongwook Lee(SS), Seho Shin(SS), Autonomous Driving Project Team Members(2017~2019) in SS!.
+Maintainers - [Daehyun Ji](https://github.com/captainzone/)(MILA), [Dokwan Oh](https://github.com/dokwanoh/)(MILA), [Dongwon Shin](https://github.com/JustWon)(GIST), Dongwook Lee(SS), [Seho Shin](https://github.com/insightque/)(SS), Autonomous Driving Project Team Members(2017~2019) in SS!.
 
 [AutonomousDrving KR] (https://www.facebook.com/groups/106272686509360/)
 
@@ -358,6 +358,7 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
   * [Recent Developments in Deep Learning By Geoff Hinton](ht`tps://www.youtube.com/watch?v=vShMxxqtDDs)
   * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+  * [ComputerVisionFoundation Video](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
 * Computer Vision Lecture
   * [EENG 512 / CSCI 512 - Computer Vision - William Hoff (Colorado School of Mines)](http://inside.mines.edu/~whoff/courses/EENG512/)
