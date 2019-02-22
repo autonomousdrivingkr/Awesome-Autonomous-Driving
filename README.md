@@ -340,11 +340,15 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
 * Vehicle path planning in various driving situations based on the elastic band theory for highway collision avoidance[[Paper](http://journals.sagepub.com/doi/abs/10.1177/0954407013481299)]
   * Song, Xiaolin, Haotian Cao, and Jiang Huang
 
-
 ### Control
 ### RL in Autonomous Driving
 
-
+##Dataset
+* [KITTI Benchmark ](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Tasks of interest are: stereo, optical flow, visual odometry, 3D object detection and 3D tracking. For this purpose, we equipped a standard station wagon with two high-resolution color and grayscale video cameras. Accurate ground truth is provided by a Velodyne laser scanner and a GPS localization system.
+* [Cityscape Dataset](https://www.cityscapes-dataset.com/) - Large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames. Focused on developing Pixel Level Classification, Instance-wise Segmentation.
+* [Appllo Scape](http://apolloscape.auto/) - Scene Parsing
+,Car Instance,Lane Segmentation,Self Localization,Trajectory
+* [SYNTHetic collection of Imagery and Annotations (SYNTHIA)](http://synthia-dataset.net/) - SYNTHIA, The  SYNTHetic collection of Imagery and Annotations, is a dataset that has been generated with the purpose of aiding semantic segmentation and related scene understanding problems in the context of driving scenarios. SYNTHIA consists of a collection of photo-realistic frames rendered from a virtual city and comes with precise pixel-level semantic annotations.
 * [Comma.ai](https://archive.org/details/comma-dataset) - 7 and a quarter hours of largely highway driving. Consists of 10 videos clips of variable size recorded at 20 Hz with a camera mounted on the windshield of an Acura ILX 2016. In parallel to the videos, also recorded some measurements such as car's speed, acceleration, steering angle, GPS coordinates, gyroscope angles. These measurements are transformed into a uniform 100 Hz time base.
 color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-precision GPS/IMU inertial navigation system.
 * [Automated Synchronization of Driving Data: Video, Audio, Telemetry, and Accelerometer](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/) - 1,000+ hours of multi-sensor driving datasets collected at AgeLab(Lex Fridman).
