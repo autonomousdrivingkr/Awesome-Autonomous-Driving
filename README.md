@@ -343,9 +343,10 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
 ### Control
 ### RL in Autonomous Driving
 
-##Dataset
+## Dataset
 * [KITTI Benchmark ](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Tasks of interest are: stereo, optical flow, visual odometry, 3D object detection and 3D tracking. For this purpose, we equipped a standard station wagon with two high-resolution color and grayscale video cameras. Accurate ground truth is provided by a Velodyne laser scanner and a GPS localization system.
 * [Cityscape Dataset](https://www.cityscapes-dataset.com/) - Large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames. Focused on developing Pixel Level Classification, Instance-wise Segmentation.
+* [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas?pKey=7i2B0ZVoX1sAMZwp4mghQw) - A diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world. 25,000 high-resolution images,152 object categories,100 instance-specifically annotated categories,Global reach, covering 6 continents, Variety of weather, season, time of day, camera, and viewpoint
 * [Appllo Scape](http://apolloscape.auto/) - Scene Parsing
 ,Car Instance,Lane Segmentation,Self Localization,Trajectory
 * [SYNTHetic collection of Imagery and Annotations (SYNTHIA)](http://synthia-dataset.net/) - SYNTHIA, The  SYNTHetic collection of Imagery and Annotations, is a dataset that has been generated with the purpose of aiding semantic segmentation and related scene understanding problems in the context of driving scenarios. SYNTHIA consists of a collection of photo-realistic frames rendered from a virtual city and comes with precise pixel-level semantic annotations.
