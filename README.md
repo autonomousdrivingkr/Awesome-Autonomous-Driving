@@ -28,6 +28,7 @@ Please feel free to [pull requests](https://github.com/captainzone/AwesomeAutono
   - [Planning](#planning)
   - [Control](#control)
   - [RL in Autonomous Driving](#rl-in-autonomous-driving)
+- [Dataset](#dataset)
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
@@ -344,6 +345,11 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
 ### RL in Autonomous Driving
 
 
+* [Comma.ai](https://archive.org/details/comma-dataset) - 7 and a quarter hours of largely highway driving. Consists of 10 videos clips of variable size recorded at 20 Hz with a camera mounted on the windshield of an Acura ILX 2016. In parallel to the videos, also recorded some measurements such as car's speed, acceleration, steering angle, GPS coordinates, gyroscope angles. These measurements are transformed into a uniform 100 Hz time base.
+color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-precision GPS/IMU inertial navigation system.
+* [Automated Synchronization of Driving Data: Video, Audio, Telemetry, and Accelerometer](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/) - 1,000+ hours of multi-sensor driving datasets collected at AgeLab(Lex Fridman).
+* [Traffic Sign Recognition](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - A large dataset with traffic sign annotations, thousands of physically distinct traffic signs.
+* [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
 ## Books
 * Free Online Books
   * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
