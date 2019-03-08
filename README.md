@@ -4,7 +4,7 @@ This is github for Survey for Autonomous Driving.
 
 Maintainers - [Daehyun Ji](https://github.com/captainzone/)(MILA), [Dokwan Oh](https://github.com/dokwanoh/)(MILA), [Dongwon Shin](https://github.com/JustWon)(GIST), Dongwook Lee(SS), [Seho Shin](https://github.com/insightque/)(SS), Autonomous Driving Project Team Members(2017~2019) in SS!.
 
-[AutonomousDrving KR] (https://www.facebook.com/groups/106272686509360/)
+[AutonomousDrving KR] (https://www.facebook.com/groups/AutonomousDrivingKR/)
 
 I am looking for a maintainer! Let me know (captainzone@gmail.com, dongwonshin@gist.ac.kr) if interested.
 
@@ -46,6 +46,7 @@ Please feel free to [pull requests](https://github.com/captainzone/AwesomeAutono
   * Lex Fridman, Daniel E. Brown, Michael Glazer, William Angell, Spencer Dodd, Benedikt Jenik,
 Jack Terwilliger, Julia Kindelsberger, Li Ding, Sean Seaman, Hillary Abraham, Alea Mehler,
 Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler, Bryan Reimer
+* Reading Material Advanced Machine Learning by SungjuHwang [[github](https://github.com/sjhwang82/AdvancedML)]
 
 ### Classification
 * Densely Connected Convolutional Networks [[Paper](https://arxiv.org/abs/1608.06993)]
