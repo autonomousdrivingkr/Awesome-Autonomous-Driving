@@ -415,6 +415,9 @@ color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-preci
 * More Deep Learning
   * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
+* Tensorflow KR - PR Series
+  * [Season-1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
+  * [Season-2](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
 
 ## Software
 ### ROS
