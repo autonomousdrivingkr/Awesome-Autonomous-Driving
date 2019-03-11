@@ -411,6 +411,8 @@ color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-preci
 * Tensorflow KR - PR Series
   * [Season-1](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
   * [Season-2](https://www.youtube.com/watch?v=FfBp6xJqZVA&list=PLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8)
+* SLAM-KR - Study 
+  * [Season-1](https://www.youtube.com/channel/UCXvT7auo7xUd7v0B2pmvwIA)
 
 ## Software
 ### ROS
