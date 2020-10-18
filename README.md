@@ -185,6 +185,9 @@ Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler,
 
 * The Cityscapes Dataset for Semantic Urban Scene Understanding
   *  Cordts, Marius, Mohamed Omran, Sebastian Ramos, Timo Rehfeld, Markus Enzweiler, Rodrigo Benenson, Uwe Franke, Stefan Roth, Bernt Schiele.    [[Paper]](https://www.cityscapes-dataset.com/). In CVPR, 2016.
+* Domain Adaptative Semantic Segmentation
+  *  Zhedong Zheng and Yi Yang, Unsupervised Scene Adaptation with Memory Regularization in vivo, IJCAI (2020) [[Paper]](https://arxiv.org/pdf/1912.11164.pdf) [[Code]](https://github.com/layumi/Seg-Uncertainty)
+  *  Zhedong Zheng and Yi Yang, Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation, IJCV (2020) [[Paper]](https://arxiv.org/pdf/2003.03773.pdf) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 * SEC: Seed, Expand and Constrain
   *  Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [[Paper]](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) [[Code]](https://github.com/kolesman/SEC)
 * Adelaide
