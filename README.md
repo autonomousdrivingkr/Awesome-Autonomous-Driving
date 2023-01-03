@@ -2,11 +2,11 @@
 
 This is github for Survey for Autonomous Driving.
 
-Maintainers - [Daehyun Ji](https://github.com/captainzone/)(SAIT), [Dokwan Oh](https://github.com/dokwanoh/)(SAIT), [Dongwon Shin](https://github.com/JustWon)(GIST), Dongwook Lee(SAIT), [Seho Shin](https://github.com/insightque/)(SAIT), Autonomous Driving Team Members in Samsung Advanced Institute of Technology.
+Maintainers - [Daehyun Ji](https://github.com/captainzone/)(SAIT), [Dokwan Oh](https://github.com/dokwanoh/)(SAIT), Dongwook Lee(SAIT), [Seho Shin](https://github.com/insightque/)(SAIT), Autonomous Driving Team Members in Samsung Advanced Institute of Technology.
 
 [AutonomousDrving KR] (https://www.facebook.com/groups/AutonomousDrivingKR/)
 
-I am looking for a maintainer! Let me know (captainzone@gmail.com, dongwonshin@gist.ac.kr) if interested.
+I am looking for a maintainer! Let me know (captainzone@gmail.com) if interested.
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) to add papers.
