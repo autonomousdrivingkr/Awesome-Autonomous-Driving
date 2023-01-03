@@ -6,7 +6,7 @@ Maintainers - [Daehyun Ji](https://github.com/captainzone/)(SAIT), [Dokwan Oh](h
 
 [AutonomousDrving KR] (https://www.facebook.com/groups/AutonomousDrivingKR/)
 
-I am looking for a maintainer! Let me know (captainzone@gmail.com, dongwonshin@gist.ac.kr) if interested.
+I am looking for a maintainer! Let me know (captainzone@gmail.com) if interested.
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) to add papers.
