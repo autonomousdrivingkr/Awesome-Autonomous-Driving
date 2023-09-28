@@ -109,6 +109,8 @@ Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler,
   * Martin Simony, Stefan Milzy, Karl Amendey, Horst-Michael Gross, Valeo Schalter und Sensoren GmbHy, Ilmenau University of Technology, arXiv:1803.06199
 
 ### 3D Object Detection
+* M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers [[Paper]](https://arxiv.org/pdf/2104.11896.pdf) [[Code]](https://github.com/rayguan97/M3DETR). WACV 2022.
+  * Tianrui Guan, Jun Wang, Shiyi Lan, Rohan Chandra, Zuxuan Wu, Larry Davis, Dinesh Manocha
 * PIXOR: Real-time 3D Object Detection from Point Clouds [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf) 
   * Bin-Yang, Wenjie Luo, Rquel Urtasun, Uber Advanced Technologies Group, University of Toronto
 * Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) 
@@ -127,6 +129,7 @@ Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler,
   * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, Raquel Urtasun,Tsinghua University, University of Toronto
 * Subcategory-Aware Convolutional Neural Networks for Object Proposals and Detection [[Paper]](https://ieeexplore.ieee.org/abstract/document/7926691/)
   * Yu Xiang, Wongun Choi, Yuanqing Lin, and Silvio Savarese, University of Washington, NEC Lab, Baidu, Stanford University  
+
 
 ### Object Tracking
 * Beyond Pixels Leveraging Geometry and Shape Cues for Online Multi-Object Tracking [[Paper]](https://arxiv.org/pdf/1802.09298.pdf)
@@ -156,6 +159,9 @@ Andrew Sipperley, Anthony Pettinato, Bobbie Seppelt, Linda Angell, Bruce Mehler,
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**<br />
   *  Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, Hartwig Adam. arXiv: 1802.02611.<br />
     [[Paper]](https://arxiv.org/abs/1802.02611). arXiv: 1802.02611, 2018.
+* GANav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments**<br />
+  *  Tianrui Guan, Divya Kothandaraman, Rohan Chandra, Adarsh Jagan Sathyamoorthy, Kasun Weerakoon, Dinesh Manocha.<br />
+    [[Paper]](https://arxiv.org/abs/2103.04233) [[Code]](https://github.com/rayguan97/GANav-offroad). RAL, 2022.
 * ParseNet: Looking Wider to See Better
   *  Wei Liu, Andrew Rabinovich, Alexander C Berg
     [[Paper]](https://arxiv.org/abs/1506.04579). arXiv:1506.04579, 2015.
@@ -273,6 +279,8 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
   * Stefan Milz, Georg Arbeiter, Christian Witt, Bassam Abdallah
 * SegMap: 3D Segment Mapping using Data-Driven Descriptors [[Paper](https://arxiv.org/pdf/1804.09557.pdf)]
   * Renaud Dube, Andrei Cramariuc, Daniel Dugas, Juan Nieto, Roland Siegwart, and Cesar Cadena
+* CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition [[Paper]](https://arxiv.org/abs/2303.17778) [[Code]](https://github.com/rayguan97/crossloc3d). ICCV, 2023.
+  * Tianrui Guan, Aswath Muthuselvam, Montana Hoover, Xijun Wang, Jing Liang, Adarsh Jagan Sathyamoorthy, Damon Conover, Dinesh Manocha
 * SegMatch: Segment Based Place Recognition in 3D Point Clouds [[Paper](https://arxiv.org/pdf/1609.07720.pdf)]
   * Renaud Dubé, Daniel Dugas, Elena Stumm, Juan Nieto, Roland Siegwart, Cesar Cadena∗
 * Incremental Segment-Based Localization in 3D Point Clouds [[Paper](http://www.gilitschenski.org/igor/publications/201807-ral-incremental_segmatch/ral18-incremental_segmatch.pdf)]
@@ -346,6 +354,7 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
 
 ### Control
 ### RL in Autonomous Driving
+* iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning [[Paper]](https://arxiv.org/pdf/2306.06236.pdf) [[Code]](https://github.com/wuxiyang1996/iPLAN). CoRL 2023.
 
 ## Dataset
 * [KITTI Benchmark ](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Tasks of interest are: stereo, optical flow, visual odometry, 3D object detection and 3D tracking. For this purpose, we equipped a standard station wagon with two high-resolution color and grayscale video cameras. Accurate ground truth is provided by a Velodyne laser scanner and a GPS localization system.
