@@ -319,6 +319,8 @@ Exploring the Applications of Deep Learning [[Paper](http://openaccess.thecvf.co
 * Udacity Self-Driving Car Nano Degree program description [[Web](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)]
 
 ### Planning
+* Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner[[Paper](https://ezharjan.github.io/AutoSceneGen/)]
+  * Aizierjiang Aiersilan
 * Optimal trajectory generation for dynamic street scenarios in a frenet frame[[Paper](https://ieeexplore.ieee.org/abstract/document/5509799/)]
   * Moritz Werling, Julius Ziegler, Soren Kammel, Sebastian Thrun
 * Path planning for autonomous vehicles in unknown semi-structured environments[[Paper](http://journals.sagepub.com/doi/abs/10.1177/0278364909359210)]
