@@ -1,8 +1,4 @@
 # Awesome Autonomous Driving (2026 Refresh)
-
-A curated and refreshed survey-style reading list for autonomous driving research, updated for **2026**.
-This version modernizes the original repository by keeping classic references while adding the major research directions that became central after 2019: **BEV perception, multimodal fusion, end-to-end driving, foundation models / VLMs / LLMs, occupancy prediction, motion forecasting, world models, and closed-loop planning benchmarks**.
-
 Maintainers - [Daehyun Ji](https://github.com/captainzone/) (Samsung Electronics), Dongwook Lee (Samsung Electronics), [Seho Shin](https://github.com/insightque/) (SAIT), AI Center Members in Samsung Electronics
 
 [AutonomousDriving KR](https://www.facebook.com/groups/AutonomousDrivingKR/)
