@@ -1,6 +1,5 @@
 # Awesome Autonomous Driving (2026 Refresh)
-Maintainers - [Daehyun Ji](https://github.com/captainzone/) (Samsung Electronics), Dongwook Lee (Samsung Electronics), [Seho Shin](https://github.com/insightque/) (Samsung Electornics), AI Center Members in Samsung Electronics
-[AutonomousDriving KR](https://www.facebook.com/groups/AutonomousDrivingKR/)
+Maintainers - [Daehyun Ji](https://github.com/captainzone/) (Samsung Electronics), Vertical AI 2 Team, AI Center Members in Samsung Electronics
 
 I am looking for a maintainer! Let me know (**captainzone@gmail.com**) if interested.
 
