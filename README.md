@@ -42,6 +42,8 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
 ## Papers
 
 ### Overall Surveys
+- **Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses** [[Paper](https://arxiv.org/abs/2605.02900)]
+  - Xingjun Ma, et al.
 - **Self-Driving Cars: A Survey** [[Paper](https://arxiv.org/abs/1901.04407)]
   - Claudine Badue, Rânik Guidolini, Raphael Vivacqua Carneiro, Pedro Azevedo, Vinicius Brito Cardoso, Avelino Forechi, Luan Ferreira Reis Jesus, Rodrigo Ferreira Berriel, Thiago Meireles Paixão, Filipe Mutz, Thiago Oliveira-Santos, Alberto Ferreira De Souza
 - **Planning and Decision-Making for Autonomous Vehicles** [[Paper](https://www.annualreviews.org/doi/10.1146/annurev-control-060117-105157)]
