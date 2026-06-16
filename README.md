@@ -344,6 +344,8 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
 - **Detectron2** [[GitHub](https://github.com/facebookresearch/detectron2)]
 - **Nerfstudio** [[Website](https://www.nerf.studio/)]
   - Increasingly useful for 3D scene reconstruction and radiance-field-based research.
+- **Superhighway** [[Guide](https://superhighway.walls.sh/guides/automotive-research-agent)]
+  - Build a Python agent that researches automotive markets, OEM strategies, EV adoption metrics, and charging infrastructure using live web search. Pay-per-call with USDC via x402.
 
 ### Simulation and Evaluation
 - **CARLA Simulator** [[Website](https://carla.org/)] [[Docs](https://carla.readthedocs.io/)] [[GitHub](https://github.com/carla-simulator/carla)]
