@@ -54,20 +54,49 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - Tuo Feng, Wenguan Wang, Yi Yang
 - **Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis** [[Paper](https://arxiv.org/abs/2506.11526)]
   - Mingyang Zhang, Haotian Wang, Yiduo Wang, et al.
+- **End-to-End Autonomous Driving: Challenges and Frontiers** (TPAMI 2024) [[Paper](https://arxiv.org/abs/2306.16927)] [[Repo](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)]
+  - Li Chen, Penghao Wu, Kashyap Chitta, Bernhard Jaeger, Andreas Geiger, Hongyang Li
+- **A Survey on Vision-Language-Action Models for Autonomous Driving** (ICCVW 2025) [[Paper](https://arxiv.org/abs/2506.24044)]
+  - Sicong Jiang, Zilin Huang, Kangan Qian, et al.
 
 ### Foundation Models, VLMs, LLMs, and World Models
 - **DriveLM: Driving with Graph Visual Question Answering** [[Paper](https://arxiv.org/abs/2312.14150)] [[Code](https://github.com/OpenDriveLab/DriveLM)]
   - Chonghao Sima, Katrin Renz, Kashyap Chitta, Li Chen, Hanxue Zhang, Chengen Xie, Jens Beißwenger, Ping Luo, Andreas Geiger, Hongyang Li
-- **Planning-Oriented Autonomous Driving** [[Paper](https://arxiv.org/abs/2212.10156)] [[Code](https://github.com/OpenDriveLab/UniAD)]
-  - Tianyuan Hu, Li Chen, et al.
+- **Planning-Oriented Autonomous Driving (UniAD)** (CVPR 2023) [[Paper](https://arxiv.org/abs/2212.10156)] [[Code](https://github.com/OpenDriveLab/UniAD)]
+  - Yihan Hu, Jiazhi Yang, Li Chen, et al.
 - **TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving** [[Paper](https://arxiv.org/abs/2205.15997)] [[Code](https://github.com/autonomousvision/transfuser)]
   - Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger
+- **DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models** (CoRL 2024) [[Paper](https://arxiv.org/abs/2402.12289)] [[Project](https://tsinghua-mars-lab.github.io/DriveVLM/)]
+  - Xiaoyu Tian, Junru Gu, Bailin Li, Yicheng Liu, Yang Wang, Zhiyong Zhao, Kun Zhan, Peng Jia, Xianpeng Lang, Hang Zhao
+- **EMMA: End-to-End Multimodal Model for Autonomous Driving** (Waymo) [[Paper](https://arxiv.org/abs/2410.23262)]
+  - Jyh-Jing Hwang, Runsheng Xu, Hubert Lin, et al.
+- **Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving** [[Paper](https://arxiv.org/abs/2410.22313)] [[Code](https://github.com/hustvl/Senna)]
+  - Bo Jiang, Shaoyu Chen, Bencheng Liao, Xingyu Zhang, Wei Yin, Qian Zhang, Chang Huang, Wenyu Liu, Xinggang Wang
+- **OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model** [[Paper](https://arxiv.org/abs/2503.23463)]
+  - Xingcheng Zhou, Xuyuan Han, Feng Yang, Yunpu Ma, Volker Tresp, Alois Knoll
+- **ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation** [[Paper](https://arxiv.org/abs/2503.19755)]
+  - Haoyu Fu, Diankun Zhang, Zongchuang Zhao, et al.
+- **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning** (NeurIPS 2025) [[Paper](https://arxiv.org/abs/2506.13757)] [[Code](https://github.com/ucla-mobility/AutoVLA)]
+  - Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang, Bolei Zhou, Jiaqi Ma
+- **SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment** (CVPR 2025) [[Paper](https://arxiv.org/abs/2503.09594)]
+  - Katrin Renz, Long Chen, Elahe Arani, Oleg Sinavski
 - **GAIA-1: A Generative World Model for Autonomous Driving** [[Paper](https://arxiv.org/abs/2309.17080)]
   - Wayve
-- **DriveTransformer / DriveGPT-style driving-language works**
-  - This area is moving quickly; keep an eye on VLM- and MLLM-based driving papers from CVPR, ICCV, ECCV, CoRL, and NeurIPS AD workshops.
+- **GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving** [[Paper](https://arxiv.org/abs/2503.20523)]
+  - Wayve
+- **Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability** (NeurIPS 2024) [[Paper](https://arxiv.org/abs/2405.17398)] [[Code](https://github.com/OpenDriveLab/Vista)]
+  - Shenyuan Gao, Jiazhi Yang, Li Chen, Kashyap Chitta, Yihang Qiu, Andreas Geiger, Jun Zhang, Hongyang Li
+- **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving** (ECCV 2024) [[Paper](https://arxiv.org/abs/2309.09777)] [[Code](https://github.com/JeffWang987/DriveDreamer)]
+  - Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiagang Zhu, Jiwen Lu
+- **MagicDrive: Street View Generation with Diverse 3D Geometry Control** (ICLR 2024) [[Paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]
+  - Ruiyuan Gao, Kai Chen, Enze Xie, et al.
+- **DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers** [[Paper](https://arxiv.org/abs/2412.18607)]
+  - Yuntao Chen, Yuqi Wang, Zhaoxiang Zhang
+- **Cosmos World Foundation Model Platform for Physical AI** (NVIDIA) [[Paper](https://arxiv.org/abs/2501.03575)] [[Code](https://github.com/NVIDIA/Cosmos)]
+  - NVIDIA
 - **World Models for Autonomous Driving: An Initial Survey** [[Paper](https://arxiv.org/abs/2403.02622)]
   - Chenhan Jiang, et al.
+- **Curated list: World Models for Autonomous Driving** [[Repo](https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey)]
 
 ### Classification / Representation Learning
 - **ImageNet Classification with Deep Convolutional Neural Networks** [[Paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)]
@@ -118,7 +147,11 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - Zhiqi Li, Wenhai Wang, Hongyang Li, Enze Xie, Chonghao Sima, Tong Lu, Qiao Yu, Jifeng Dai
 - **BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation** [[Paper](https://arxiv.org/abs/2205.13542)] [[Code](https://github.com/mit-han-lab/bevfusion)]
   - Zhijian Liu, Haotian Tang, Alexander Amini, Hanrui Wang, Song Han
-- **Occupancy and BEV methods from 2023-2025**
+- **StreamPETR: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection** (ICCV 2023) [[Paper](https://arxiv.org/abs/2303.11926)] [[Code](https://github.com/exiawsh/StreamPETR)]
+  - Shihao Wang, Yingfei Liu, Tiancai Wang, Ying Li, Xiangyu Zhang
+- **SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos** (ICCV 2023) [[Paper](https://arxiv.org/abs/2308.09244)] [[Code](https://github.com/MCG-NJU/SparseBEV)]
+  - Haisong Liu, Yao Teng, Tao Lu, Haiguang Wang, Limin Wang
+- **Occupancy and BEV methods from 2023-2026**
   - See also occupancy and end-to-end sections below, because the field increasingly merges 3D detection, map perception, forecasting, and planning.
 
 ### Object Tracking
@@ -168,7 +201,9 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - Yiming Ge, et al.
 - **TPVFormer: Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction** [[Paper](https://arxiv.org/abs/2302.07817)]
   - Yiming Huang, et al.
-- **Occupancy Network / occupancy-based scene modeling papers (2023-2025)**
+- **OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving** (ECCV 2024) [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
+  - Wenzhao Zheng, Weiliang Chen, Yuanhui Huang, Borui Zhang, Yueqi Duan, Jiwen Lu
+- **Occupancy Network / occupancy-based scene modeling papers (2023-2026)**
   - This is now a core subfield linking perception, forecasting, and world modeling.
 
 ### Localization and Mapping
@@ -261,9 +296,17 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
 - **NEAT: Neural Attention Fields for End-to-End Autonomous Driving** [[Paper](https://arxiv.org/abs/2109.04456)] [[Code](https://github.com/autonomousvision/neat)]
   - Bernhard Jaeger, et al.
 - **TCP: Trajectory-guided Control Prediction for End-to-End Autonomous Driving** [[Paper](https://arxiv.org/abs/2206.08129)] [[Code](https://github.com/OpenDriveLab/TCP)]
-  - Haotian Tang, et al.
-- **Planning-Oriented Autonomous Driving** [[Paper](https://arxiv.org/abs/2212.10156)] [[Code](https://github.com/OpenDriveLab/UniAD)]
-  - Tianyuan Hu, Li Chen, et al.
+  - Penghao Wu, Xiaosong Jia, Li Chen, Junchi Yan, Hongyang Li, Yu Qiao
+- **VAD: Vectorized Scene Representation for Efficient Autonomous Driving** (ICCV 2023) [[Paper](https://arxiv.org/abs/2303.12077)] [[Code](https://github.com/hustvl/VAD)]
+  - Bo Jiang, Shaoyu Chen, Qing Xu, et al.
+- **SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation** [[Paper](https://arxiv.org/abs/2405.19620)] [[Code](https://github.com/swc-17/SparseDrive)]
+  - Wenchao Sun, Xuewu Lin, Yining Shi, Chuang Zhang, Haoran Wu, Sifa Zheng
+- **Hydra-MDP: End-to-end Multimodal Planning with Multi-target Hydra-Distillation** [[Paper](https://arxiv.org/abs/2406.06978)] [[Code](https://github.com/NVlabs/Hydra-MDP)]
+  - Zhenxin Li, Kailin Li, Shihao Wang, et al.
+- **DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving** (CVPR 2025) [[Paper](https://arxiv.org/abs/2411.15139)] [[Code](https://github.com/hustvl/DiffusionDrive)]
+  - Bencheng Liao, Shaoyu Chen, Haoran Yin, et al.
+- **Planning-Oriented Autonomous Driving (UniAD)** (CVPR 2023) [[Paper](https://arxiv.org/abs/2212.10156)] [[Code](https://github.com/OpenDriveLab/UniAD)]
+  - Yihan Hu, Jiazhi Yang, Li Chen, et al.
 - **DriveLM: Driving with Graph Visual Question Answering** [[Paper](https://arxiv.org/abs/2312.14150)] [[Code](https://github.com/OpenDriveLab/DriveLM)]
   - Chonghao Sima, Katrin Renz, Kashyap Chitta, Li Chen, Hanxue Zhang, Chengen Xie, Jens Beißwenger, Ping Luo, Andreas Geiger, Hongyang Li
 
@@ -302,13 +345,20 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - Long-term autonomy dataset across weather, season, and lighting changes.
 - **Oxford Radar RobotCar Dataset** [[Website](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)]
   - Adds radar and odometry for robust localization and adverse-condition research.
+- **NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking** (NeurIPS 2024) [[Paper](https://arxiv.org/abs/2406.15349)] [[GitHub](https://github.com/autonomousvision/navsim)]
+  - Planning-focused benchmark with PDMS / EPDMS metrics; NAVSIM v2 adds pseudo-simulation for two-stage evaluation (CoRL 2025).
+- **Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving** (NeurIPS 2024) [[Paper](https://arxiv.org/abs/2406.03877)] [[GitHub](https://github.com/Thinklab-SJTU/Bench2Drive)]
+  - CARLA-based closed-loop benchmark for end-to-end driving across 44 interactive scenario types.
 - **KAIST Urban Dataset / MulRan-style Korean localization datasets**
   - Keep Korean-road and Korean-traffic-specific resources in this section where possible.
 
 ## Courses
-- **CS231n: Convolutional Neural Networks for Visual Recognition** [[Website](https://cs231n.stanford.edu/)]
+- **Self-Driving Cars (University of Tübingen, Prof. Andreas Geiger)** [[Website](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)] [[YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)]
+  - Full lecture series covering imitation learning, direct perception, vehicle control, and planning — one of the best free end-to-end driving courses.
+- **CS231n: Deep Learning for Computer Vision (Stanford)** [[Website](https://cs231n.stanford.edu/)]
 - **Self-Driving Cars Specialization (University of Toronto / Coursera)** [[Website](https://www.coursera.org/specializations/self-driving-cars)]
 - **Introduction to Self-Driving Cars** [[Website](https://www.coursera.org/learn/intro-self-driving-cars)]
+- **MIT Deep Learning and Self-Driving Cars lecture series** [[Website](https://deeplearning.mit.edu/)]
 - **Practical Deep Learning for Coders** [[Website](https://course.fast.ai/)]
 - **Probabilistic Robotics and SLAM related graduate lectures**
   - Search with: SLAM / visual localization / motion planning / multi-agent forecasting lecture series.
@@ -321,6 +371,9 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
 - **Computer Vision: Algorithms and Applications** — Richard Szeliski [[Book](https://szeliski.org/Book/)]
 
 ## Videos
+- **Self-Driving Cars lecture videos — Andreas Geiger (Tübingen)** [[Playlist](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)]
+- **CVPR Workshop on Autonomous Driving (WAD)** [[Website](https://cvpr.wad.vision/)]
+  - Annual workshop with keynotes from Waymo, NVIDIA, Wayve, and academia; talks are posted online each year.
 - **Computer Vision Foundation (CVF) Open Access / YouTube** [[Channel](https://www.youtube.com/@ComputerVisionFoundation/playlists)]
 - **ROSCon** [[Channel](https://www.youtube.com/@roscon)]
 - **Autonomous Driving talks from Waymo Research / NVIDIA / Motional / CARLA Summit**
@@ -367,6 +420,7 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - autonomous driving, embodied AI, world models, behavior prediction, foundation models, simulation, safety validation
 
 ## Maintenance Notes
+- Last content refresh: **July 2026** (added VLA / world-model papers, NAVSIM & Bench2Drive benchmarks, and course links).
 - Prefer **full paper titles** over abbreviations when adding new entries.
 - Prefer **official project pages**, **official code repositories**, and **arXiv / OpenAccess** links.
 - Mark deprecated toolchains clearly (for example, **Torch7**, **Theano**, **Caffe2**) instead of deleting history.
