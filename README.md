@@ -203,6 +203,8 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - Yiming Huang, et al.
 - **OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving** (ECCV 2024) [[Paper](https://arxiv.org/abs/2311.16038)] [[Code](https://github.com/wzzheng/OccWorld)]
   - Wenzhao Zheng, Weiliang Chen, Yuanhui Huang, Borui Zhang, Yueqi Duan, Jiwen Lu
+- **DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes** (ICLR 2025 Spotlight) [[Paper](https://arxiv.org/abs/2410.18084)] [[Code](https://github.com/3DTopia/DynamicCity)] [[Project](https://dynamic-city.github.io)]
+  - Hengwei Bian, Lingdong Kong, Haozhe Xie, Liang Pan, Yu Qiao, Ziwei Liu
 - **Occupancy Network / occupancy-based scene modeling papers (2023-2026)**
   - This is now a core subfield linking perception, forecasting, and world modeling.
 
