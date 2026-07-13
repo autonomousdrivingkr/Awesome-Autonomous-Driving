@@ -222,6 +222,9 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
 - **FAST-LIO2: Fast Direct LiDAR-Inertial Odometry** [[Paper](https://arxiv.org/abs/2107.06829)] [[Code](https://github.com/hku-mars/FAST_LIO)]
   - Wei Xu, et al.
 
+- **FusionCore: A ROS 2 UKF Sensor Fusion Library for Outdoor Mobile Robots** [[Paper](https://arxiv.org/abs/2605.25239)] [[Code](https://github.com/manankharwar/fusioncore)]
+  - Manan Kharwar
+
 ### Visual Odometry
 - **Review of Visual Odometry: Types, Approaches, Challenges, and Applications** [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084145/)]
   - Mohammad O. A. Aqel, Mohammad H. Marhaban, M. Iqbal Saripan, Napsiah Bt. Ismail
