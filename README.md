@@ -392,6 +392,8 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
 - **ROS Home** [[Website](https://www.ros.org/)]
 - **Autoware** [[Website](https://autoware.org/)] [[Docs](https://autowarefoundation.github.io/autoware-documentation/main/home/)] [[GitHub](https://github.com/autowarefoundation/autoware)]
   - Open-source autonomous driving software stack built on ROS.
+- **OpenADS** [[Website](https://openads-project.github.io/)] [[GitHub](https://github.com/openads-project)]
+  - Collaborative open-source ecosystem for Automated Driving Systems, spanning a ROS 2 reference stack (OpenADStack), multi-simulator support via CARLA/SUMO (OpenADSim), development tooling (OpenADSuite), and scenario-based verification/validation (OpenADSafety).
 
 ### Frameworks and Toolboxes
 - **PyTorch** [[Website](https://pytorch.org/)]
