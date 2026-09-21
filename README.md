@@ -80,6 +80,8 @@ Please feel free to open [pull requests](https://github.com/autonomousdrivingkr/
   - Zewei Zhou, Tianhui Cai, Seth Z. Zhao, Yun Zhang, Zhiyu Huang, Bolei Zhou, Jiaqi Ma
 - **SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment** (CVPR 2025) [[Paper](https://arxiv.org/abs/2503.09594)]
   - Katrin Renz, Long Chen, Elahe Arani, Oleg Sinavski
+- **DriveVA: Video Action Models are Zero-Shot Drivers** (ECCV 2026) [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)] [[Code](https://github.com/xiaomi-mlab/DriveVA)]
+  - Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng
 - **GAIA-1: A Generative World Model for Autonomous Driving** [[Paper](https://arxiv.org/abs/2309.17080)]
   - Wayve
 - **GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving** [[Paper](https://arxiv.org/abs/2503.20523)]
